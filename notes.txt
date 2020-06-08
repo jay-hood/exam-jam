@@ -1,0 +1,5 @@
+TODO:
+1) Create user interface.
+2) Configure storage for class register, question bank, generated documents, and gradebook.
+3) Create backend document generation system, configurable based on passed criteria.
+4) Configure backend to use api.
